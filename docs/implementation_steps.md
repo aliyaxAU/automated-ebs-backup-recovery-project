@@ -30,9 +30,9 @@ This Lambda:
 
 More details:
 
-[Replicate Snapshot implementation steps](https://github.com/aliyaxAU/automated-ebs-backup-recovery-project/blob/main/docs/lambda/create_snapshot_and_upload.md#step-2-build-and-upload-files-for-lambda-code-for-createsnapshots-function)
+[Replicate Snapshot implementation steps](https://github.com/aliyaxAU/automated-ebs-backup-recovery-project/blob/main/docs/lambda/create_snapshot_and_upload.md#step-3-creating-replicate-snapshots-function)
 
-[Testing the Replicate Snapshot Lambda](https://github.com/aliyaxAU/automated-ebs-backup-recovery-project/blob/main/docs/lambda/snapshot_lifecycle_tests.md#test-snapshot-creation-primary-region-euwest2)
+[Testing the Replicate Snapshot Lambda](https://github.com/aliyaxAU/automated-ebs-backup-recovery-project/blob/main/docs/lambda/snapshot_lifecycle_tests.md#test-snapshot-replication)
 
 ---
 
@@ -45,9 +45,9 @@ This Lambda:
 
 More details:
 
-[Cleanup Snapshot implementation steps](https://github.com/aliyaxAU/automated-ebs-backup-recovery-project/blob/main/docs/lambda/create_snapshot_and_upload.md#step-2-build-and-upload-files-for-lambda-code-for-createsnapshots-function)
+[Cleanup Snapshot implementation steps](https://github.com/aliyaxAU/automated-ebs-backup-recovery-project/blob/main/docs/lambda/create_snapshot_and_upload.md#step-4-create-cleanup-snapshot)
 
-[Testing the Cleanup Snapshot Lambda](https://github.com/aliyaxAU/automated-ebs-backup-recovery-project/blob/main/docs/lambda/snapshot_lifecycle_tests.md#test-snapshot-creation-primary-region-euwest2)
+[Testing the Cleanup Snapshot Lambda](https://github.com/aliyaxAU/automated-ebs-backup-recovery-project/blob/main/docs/lambda/snapshot_lifecycle_tests.md#test-snapshot-cleanup)
 
 ---
 
