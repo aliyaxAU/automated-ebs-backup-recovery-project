@@ -1,6 +1,6 @@
 # EventBridge Setup
 
-I'm going to make schedules for the lambda functions I created in this step https://github.com/aliyaxAU/automated-ebs-backup-recovery-project/blob/release-01/create-upload-lambda/docs/lambda/create_snapshot_and_upload.md.
+I'm going to make schedules for the lambda functions I created in the [create snapshot and upload step.](https://github.com/aliyaxAU/automated-ebs-backup-recovery-project/blob/main/docs/lambda/create_snapshot_and_upload.md)
 
 In AWS `Amazon Event Bridge` select `Schedules` and create schedules.
 
